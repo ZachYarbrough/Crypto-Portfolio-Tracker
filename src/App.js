@@ -1,10 +1,10 @@
 import './App.css';
+import WalletCard from './Components/WalletCard';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      </header>
+      <WalletCard></WalletCard>
     </div>
   );
 }
